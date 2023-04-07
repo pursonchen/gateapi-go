@@ -33,13 +33,13 @@ will be 5.15.2(the MAJOR version is incremented to denote breaking changes, but 
 version are identical to REST API's instead of resetting them to 0)
 
 If MAJOR version is incremented, make sure you read the release note on
-[Releases](https://github.com/gateio/gateapi-go/releases)
+[Releases](https://github.com/pursonchen/gateapi-go/releases)
 page
 
 ## Installation
 
 ```shell
-go get github.com/gateio/gateapi-go/v6
+go get github.com/pursonchen/gateapi-go/v6
 ```
 
 ## Getting Started
@@ -54,7 +54,7 @@ import (
     "context"
     "fmt"
 
-    "github.com/gateio/gateapi-go/v6"
+    "github.com/pursonchen/gateapi-go/v6"
 )
 
 func main() {

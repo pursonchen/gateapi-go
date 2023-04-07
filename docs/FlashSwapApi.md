@@ -29,7 +29,7 @@ import (
     "context"
     "fmt"
 
-    "github.com/gateio/gateapi-go/v6"
+    "github.com/pursonchen/gateapi-go/v6"
 )
 
 func main() {
@@ -104,7 +104,7 @@ import (
     "context"
     "fmt"
 
-    "github.com/gateio/gateapi-go/v6"
+    "github.com/pursonchen/gateapi-go/v6"
 )
 
 func main() {
@@ -174,7 +174,7 @@ import (
     "context"
     "fmt"
 
-    "github.com/gateio/gateapi-go/v6"
+    "github.com/pursonchen/gateapi-go/v6"
 )
 
 func main() {
@@ -243,7 +243,7 @@ import (
     "context"
     "fmt"
 
-    "github.com/gateio/gateapi-go/v6"
+    "github.com/pursonchen/gateapi-go/v6"
 )
 
 func main() {
@@ -312,7 +312,7 @@ import (
     "context"
     "fmt"
 
-    "github.com/gateio/gateapi-go/v6"
+    "github.com/pursonchen/gateapi-go/v6"
 )
 
 func main() {

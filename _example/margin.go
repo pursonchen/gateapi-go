@@ -6,7 +6,7 @@ import (
 	"strings"
 
 	"github.com/antihax/optional"
-	"github.com/gateio/gateapi-go/v6"
+	"github.com/pursonchen/gateapi-go/v6"
 	"github.com/shopspring/decimal"
 )
 

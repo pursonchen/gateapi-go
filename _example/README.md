@@ -15,7 +15,7 @@ mkdir gateapi-demo && cd gateapi-demo
 
 # install required dependency
 go mod init
-go get github.com/gateio/gateapi-go/v6
+go get github.com/pursonchen/gateapi-go/v6
 go get github.com/shopspring/decimal
 
 # build the demo application
